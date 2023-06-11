@@ -9,11 +9,9 @@ The data are MC generated (see below) to simulate registration of high energy ga
 
 Here are the results of the different models.
 
-1. KNN -  precision    recall  f1-score   support
-
-           0       0.78      0.67      0.72      1338
-           1       0.83      0.90      0.86      2466
-
+1. KNN -         precision    recall  f1-score   support
+           0       0.78      0.67      0.72       1338
+           1       0.83      0.90      0.86       2466
      accuracy                           0.82      3804
     macro avg       0.81      0.78      0.79      3804
  weighted avg       0.81      0.82      0.81      3804
