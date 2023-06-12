@@ -10,6 +10,7 @@ The data are MC generated to simulate registration of high energy gamma particle
 Here are the results of the different models.
 
 1. **KNN** -        
+
 |  measure     | precision | recall  | f1-score  | support |
 |---------------|---------|-----------|----------|--------|
 |           0   |   0.78  |   0.67    | 0.72    |   1338|
@@ -18,7 +19,8 @@ Here are the results of the different models.
 |    macro avg  |    0.81 |   0.78    | 0.79    |  3804 |
 | weighted avg   |   0.81  |  0.82    | 0.81   |  3804  |
 
- 2. **Naive bayes** - 
+ 2. **Naive bayes**-
+ 
  | measure  | precision     | recall  | f1-score  | support |
 |---------------|---------|-----------|----------|--------|
 |           0   |   0.63 |   0.39   | 0.48   |   1338|
@@ -28,6 +30,7 @@ Here are the results of the different models.
 | weighted avg   |   0.69  |  0.71    | 0.68  |  3804  |
 
 3. **Logistic Regression** -
+
  |measure   | precision     | recall  | f1-score  | support |
 |---------------|---------|-----------|----------|--------|
 |           0   |   0.67 |   0.72   | 0.69   |   1338|
@@ -37,6 +40,7 @@ Here are the results of the different models.
 | weighted avg   |   0.78  |  0.78    | 0.78  |  3804  |
 
 4. **SVMs** - 
+
  |measure    | precision     | recall  | f1-score  | support |
 |---------------|---------|-----------|----------|--------|
 |           0   |   0.81 |   0.79   | 0.80   |   1338|
@@ -46,6 +50,7 @@ Here are the results of the different models.
 | weighted avg   |   0.86  |  0.86    | 0.86  |  3804  |
 
 5. **Neural networks** -  
+
  |  measure   | precision     | recall  | f1-score  | support |
 |---------------|---------|-----------|----------|--------|
 |           0   |   0.85 |   0.75     | 0.80   |   1338|
